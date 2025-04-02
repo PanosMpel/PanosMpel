@@ -14,4 +14,4 @@
 - 🔭 I’m currently working on travelbuddy
 - 🌱 I’m currently studying Electrical and Computer Engineering in NTUA 
 - 📫 How to reach me: panagiotisbelsis@gmail.com
-- ⚡ Fun fact: i just learned how to use github ( ͡° ͜ʖ ͡°)
+
